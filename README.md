@@ -1,140 +1,65 @@
 # 💻 Web Programming Practice
 
-Repository ini berisi latihan **PHP Native** yang saya buat untuk **persiapan Ujian Kompetensi (UK) Web Programming** di sekolah.
+Repository ini berisi latihan **PHP Native** yang saya buat untuk belajar web programming dan persiapan **Ujian Kompetensi (UK)** di sekolah.
 
-Project di repo ini fokus pada latihan **logika backend dasar, struktur kontrol PHP, dan CRUD sederhana dengan database**.
+Project di repo ini fokus pada latihan **logika dasar PHP** dan **CRUD sederhana menggunakan database**.
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```
 web-programming-practice
 │
-├── basic-web-crud
+├── php-crud-basic
 │   ├── index.php
 │   ├── koneksi.php
 │   ├── tambah.php
 │   ├── edit.php
-│   ├── hapus.php
-│   ├── kelas.php
-│   ├── tambah_kelas.php
-│   ├── edit_kelas.php
-│   └── hapus_kelas.php
+│   └── hapus.php
 │
 └── php-basic
     ├── arrays
-    │   ├── array-1d.php
-    │   ├── array-2d.php
-    │   └── array-multidimensi.php
-    │
     ├── if-else
-    │   ├── if-else.php
-    │   └── nested-if.php
-    │
     ├── loops
-    │   ├── for-loop.php
-    │   ├── while-loop.php
-    │   ├── do-while.php
-    │   └── foreach-loop.php
-    │
     ├── switch-case
-    │   └── switch-case.php
-    │
     └── latihan-logika
-        └── nilai.php
 ```
 
 ---
 
-# ⚙️ Features
+## ⚙️ What I Learn
 
-### Basic PHP Practice
-Latihan konsep dasar PHP:
+Beberapa hal yang dipelajari di repository ini:
 
-- If Else
-- Nested If
+- Basic PHP syntax
+- If Else dan Nested If
 - Arrays (1D, 2D, Multidimensional)
 - Loops (for, while, do-while, foreach)
 - Switch Case
-- Simple logic exercises
-
-### Basic Web CRUD
-Project CRUD sederhana menggunakan PHP Native dan MySQL:
-
-- ➕ Menambah data
-- ✏️ Mengedit data
-- ❌ Menghapus data
-- 📋 Menampilkan data dari database
-- 🗂 Pengelolaan data kelas
+- Basic CRUD dengan PHP dan MySQL
+- Latihan logika sederhana
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-- **PHP Native**
-- **MySQL**
-- **XAMPP / Apache**
-
-Project ini lebih fokus pada **logika backend dan pemahaman dasar PHP**, sehingga tampilan masih sederhana.
+- PHP Native
+- MySQL
+- XAMPP
 
 ---
 
-# 🚀 Cara Menjalankan Project
+## 📝 Note
 
-1️⃣ Clone repository
+Repository ini adalah **project latihan**, jadi beberapa bagian masih sederhana dan akan terus diperbaiki seiring proses belajar.
 
-```
-git clone https://github.com/fudzah31/web-programming-practice.git
-```
-
-2️⃣ Pindahkan project ke folder
-
-```
-xampp/htdocs/
-```
-
-3️⃣ Jalankan **Apache** dan **MySQL** di XAMPP.
-
-4️⃣ Buka di browser
-
-```
-localhost/web-programming-practice/basic-web-crud
-```
-
-atau untuk latihan PHP basic:
-
-```
-localhost/web-programming-practice/php-basic
-```
+> learning by practicing.
 
 ---
 
-# 🎯 Tujuan Project
-
-Repository ini dibuat untuk:
-
-- latihan **basic PHP programming**
-- memahami **struktur kontrol PHP**
-- latihan **logika pemrograman**
-- belajar **CRUD dengan database**
-- persiapan **Ujian Kompetensi (UK)**
-
----
-
-# 🌱 Note
-
-Project ini masih sederhana karena dibuat sebagai bagian dari proses belajar.
-
-Beberapa bagian mungkin akan diperbarui atau ditambahkan seiring waktu.
-
-> learning by practicing and building small projects.
-
----
-
-# 👩‍💻 Author
+## 👩‍💻 Author
 
 **Neazah**  
 SMK - Web Programming Student  
-
 GitHub: https://github.com/fudzah31
